@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "961185807532",
+    "project_id": "easymir-164af",
+    "storage_bucket": "easymir-164af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961185807532:android:c129fa9e4e343e4585b309",
+        "android_client_info": {
+          "package_name": "com.example.easymir_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961185807532-068ub2mh46pre1oegvukurk68opice41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easymir_application",
+            "certificate_hash": "1f93632d3972c878651ac6e8783dfaa86ec9ebce"
+          }
+        },
+        {
+          "client_id": "961185807532-6trufislkl8sfnq133tf99n52r5gskrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClf-gwwSZUGdG2wPo93slqgUngibideuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961185807532-6trufislkl8sfnq133tf99n52r5gskrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
